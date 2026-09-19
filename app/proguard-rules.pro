@@ -1,0 +1,5 @@
+-keep class com.netforge.app.** { *; }
+-keep class net.schmizz.sshj.** { *; }
+-dontwarn net.schmizz.sshj.**
+-keep class org.bouncycastle.** { *; }
+-dontwarn org.bouncycastle.**
