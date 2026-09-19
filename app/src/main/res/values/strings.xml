@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetForge</string>
+    <string name="tagline">Private routing, plainly done</string>
+    <string name="begin_routing">Begin routing</string>
+    <string name="end_session">End session</string>
+    <string name="status_ready">Ready</string>
+    <string name="status_opening">Opening</string>
+    <string name="status_live">Live</string>
+    <string name="status_halted">Halted</string>
+    <string name="status_error">Error</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_profiles">Profiles</string>
+    <string name="nav_console">Console</string>
+    <string name="nav_bench">Bench</string>
+    <string name="notification_channel">NetForge Tunnel</string>
+    <string name="notification_title">NetForge</string>
+    <string name="notification_text">Tunnel is live</string>
+</resources>

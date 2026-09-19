@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#7C5CFF</color>
+    <color name="ember">#FF6B4A</color>
+    <color name="ink">#0A0A0E</color>
+    <color name="paper">#16161D</color>
+    <color name="paper2">#1E1E28</color>
+    <color name="moss">#34D399</color>
+    <color name="rust">#F87171</color>
+    <color name="amber">#FBBF24</color>
+    <color name="chalk">#F4F4F6</color>
+    <color name="slate">#A1A1AA</color>
+</resources>
